@@ -2,7 +2,7 @@
 
 ## 1. Business Task
 
-Cyclistic wants to increase the number of annual memberships because annual members are more profitable than casual riders.  
+Cyclistic aims to increase annual memberships, as members are more profitable than casual riders. The objective of this analysis is to identify behavioral differences between casual riders and members to support data-driven marketing strategies for conversion. 
 The business task is to understand how casual riders and annual members use Cyclistic bikes differently so the marketing team can design strategies that encourage casual riders to become annual members.
 
 ## 2. Stakeholders
