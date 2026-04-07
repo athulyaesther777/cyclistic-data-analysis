@@ -68,3 +68,6 @@ cyclistic-data-analysis/
 
 ## 📈 Conclusion
 This analysis highlights key behavioral differences between user types and demonstrates how data-driven strategies can be used to improve customer conversion and business growth.
+
+## 📄 Case Study
+[View Full Case Study](case-study/cyclistic_case_study.md)
