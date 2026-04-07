@@ -1,4 +1,4 @@
-# Cyclistic Bike Share Analysis
+# 🚴 Cyclistic Bike Share Analysis
 
 ## 📌 Project Overview
 This project analyzes behavioral differences between casual riders and annual members to identify strategies for increasing membership conversion.
@@ -13,31 +13,8 @@ This project analyzes behavioral differences between casual riders and annual me
 
 ## 🧹 Data Cleaning
 - Removed null and duplicate records  
-- Created ride_length and day_of_week  
+- Created derived columns: `ride_length`, `day_of_week`  
 - Filtered invalid ride durations  
-
----
-
-## 🔍 Key Insights
-- Casual riders have longer ride durations  
-- Members ride more frequently  
-- Casual riders peak on weekends, members on weekdays  
-- High ride density in central Chicago  
-
----
-
-## 💡 Recommendations
-- Target casual riders with weekend membership campaigns  
-- Highlight cost savings for frequent riders  
-- Use location-based marketing at high-traffic stations  
-
----
-
-## 📊 Dashboard
-![Dashboard](dashboard/dashboard_overview.png)
-
-🔗 View Interactive Dashboard:
-https://public.tableau.com/views/CyclisticBikeShareAnalysisDashboard_17754922286300/Dashboard1
 
 ---
 
@@ -47,29 +24,27 @@ https://public.tableau.com/views/CyclisticBikeShareAnalysisDashboard_17754922286
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 ![Dashboard](dashboard/dashboard_overview.png)
 
 🔗 **View Interactive Dashboard:**  
-https://public.tableau.com/views/CyclisticBikeShareAnalysisDashboard_17754922286300/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/CyclisticBikeShareAnalysisDashboard_17754922286300/Dashboard1
 
 ---
 
 ## 🔍 Key Insights
-
-- Casual riders have significantly longer ride durations  
-- Members ride more frequently than casual users  
-- Sunday shows the highest ride activity  
+- Casual riders have longer ride durations  
+- Members ride more frequently  
+- Casual riders peak on weekends, members on weekdays  
 - Ride density is concentrated in central Chicago  
-- High-traffic stations such as Clark St & Elm St show peak usage  
+- High-traffic stations (e.g., Clark St & Elm St) show peak usage  
 
 ---
 
 ## 💡 Business Recommendations
-
-- Target casual riders during weekends for membership conversion  
-- Focus marketing efforts on high-traffic stations  
-- Use location-based campaigns in dense ride zones  
+- Target casual riders with weekend membership campaigns  
+- Highlight cost savings for frequent riders  
+- Use location-based marketing at high-traffic stations  
 - Introduce trial memberships to reduce conversion friction  
 
 ---
